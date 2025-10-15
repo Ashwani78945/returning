@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Text Adventure",
+  "description": "A dynamic text adventure game where an AI Dungeon Master crafts a unique story based on your choices. Explore fantasy worlds, battle monsters, and shape your destiny in an ever-changing narrative.",
+  "requestFramePermissions": []
+}
